@@ -1,0 +1,11 @@
+C:\Users\joaqu\OneDrive\Escritorio\C#\bin\Debug\netcoreapp3.0\C#.exe
+C:\Users\joaqu\OneDrive\Escritorio\C#\bin\Debug\netcoreapp3.0\C#.deps.json
+C:\Users\joaqu\OneDrive\Escritorio\C#\bin\Debug\netcoreapp3.0\C#.runtimeconfig.json
+C:\Users\joaqu\OneDrive\Escritorio\C#\bin\Debug\netcoreapp3.0\C#.runtimeconfig.dev.json
+C:\Users\joaqu\OneDrive\Escritorio\C#\bin\Debug\netcoreapp3.0\C#.dll
+C:\Users\joaqu\OneDrive\Escritorio\C#\bin\Debug\netcoreapp3.0\C#.pdb
+C:\Users\joaqu\OneDrive\Escritorio\C#\obj\Debug\netcoreapp3.0\C#.csprojAssemblyReference.cache
+C:\Users\joaqu\OneDrive\Escritorio\C#\obj\Debug\netcoreapp3.0\C#.AssemblyInfoInputs.cache
+C:\Users\joaqu\OneDrive\Escritorio\C#\obj\Debug\netcoreapp3.0\C#.AssemblyInfo.cs
+C:\Users\joaqu\OneDrive\Escritorio\C#\obj\Debug\netcoreapp3.0\C#.dll
+C:\Users\joaqu\OneDrive\Escritorio\C#\obj\Debug\netcoreapp3.0\C#.pdb
